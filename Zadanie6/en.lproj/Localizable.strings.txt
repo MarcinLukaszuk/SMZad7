@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Zadanie6
+
+  Created by Ewelina on 09/11/17.
+  Copyright © 2017 Ewelina. All rights reserved.
+*/
+
+"Information"="Information";
+
+"The faculty is running %i programs on graduate and undergraduate level."="The faculty is running %i programs on graduate and undergraduate level.";
+
+"image"="wi-en";
